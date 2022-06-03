@@ -1,0 +1,14 @@
+.cart-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cart-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 25px;
+}
+
+.checkout {
+    text-align: right;
+}

@@ -1,0 +1,14 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-group-qty {
+    display: flex;
+}
+
+.cart-qty {
+    width: 80px;
+    text-align: center;
+}
